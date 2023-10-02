@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import { Btns, FooterDiv, Paralax } from "./styles"
 
 const Footer = () => {
@@ -29,7 +30,7 @@ const Footer = () => {
                 </p>
                 <Btns>
                     <a href="/">Home</a>
-                    <a href="/Portfolio">Portfólio</a>
+                    <Link to="/Portfolio">Portfólio</Link>
                 </Btns>
             </div>
         </FooterDiv>
