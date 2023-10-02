@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { Btns, FooterDiv, Paralax } from "./styles"
 
 const Footer = () => {
@@ -32,6 +34,7 @@ const Footer = () => {
                     <a href="/">Home</a>
                     <Link to="/Portfolio">Portfólio</Link>
                 </Btns>
+                <a target="_blank" href="https://github.com/TRIbuto2020"><FontAwesomeIcon icon={faGithub} style={{ color: "#ffffff", }} />/TRIbuto2020</a>
             </div>
         </FooterDiv>
     )

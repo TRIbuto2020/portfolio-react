@@ -13,7 +13,7 @@ export const FooterDiv = styled.footer`
         padding: 10vw;
         margin: 0 auto;
 
-        p{
+        p, a{
             display: block;
             text-align: center;
         }
@@ -60,6 +60,7 @@ export const Btns = styled.div`
     justify-content: center;
     gap: 16px;
     margin-top: 18px;
+    margin-bottom: 18px;
 
     a{
         padding: 12px;
