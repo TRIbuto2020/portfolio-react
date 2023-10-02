@@ -17,6 +17,10 @@ export const FooterDiv = styled.footer`
             display: block;
             text-align: center;
         }
+
+        a:hover{
+            color: ${colors.bgDark}
+        } 
     }
     
     .waves {
