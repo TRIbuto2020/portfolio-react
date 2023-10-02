@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import { colors } from '../../styles'
 
+
 export const FooterDiv = styled.footer`
     height: 50vh;
     width: 100vw;
@@ -17,10 +18,6 @@ export const FooterDiv = styled.footer`
             display: block;
             text-align: center;
         }
-
-        a:hover{
-            color: ${colors.bgDark}
-        } 
     }
     
     .waves {

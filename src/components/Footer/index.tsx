@@ -34,7 +34,7 @@ const Footer = () => {
                     <a href="/">Home</a>
                     <Link to="/Portfolio">Portfólio</Link>
                 </Btns>
-                <a target="_blank" href="https://github.com/TRIbuto2020"><FontAwesomeIcon icon={faGithub} style={{ color: "#ffffff", }} />/TRIbuto2020</a>
+                <a target="_blank" href="https://github.com/TRIbuto2020"><FontAwesomeIcon icon={faGithub} />/TRIbuto2020</a>
             </div>
         </FooterDiv>
     )
