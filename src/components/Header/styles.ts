@@ -4,7 +4,7 @@ import { colors } from '../../styles'
 
 
 export const BgImage = styled.div<{ $position?: string; }> `
-    background-image: url("https://cepe.usp.br/wp-content/uploads/piscina-cepeusp-reabertura-2-sem-2017.jpg");
+    background-image: url("/cepe.jpg");
     background-position: center ${props => props.$position || "40%"};
     background-size: 180vmax;
     height: 100vh;
