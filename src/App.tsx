@@ -7,6 +7,7 @@ import 'aos/dist/aos.css';
 import Rotas from './routes'
 import { GlobalCss } from './styles'
 import Footer from './components/Footer'
+import ScrollToTop from './components/ScrollToTop';
 
 
 
@@ -17,6 +18,7 @@ function App() {
   return (
     <BrowserRouter>
       <GlobalCss />
+      <ScrollToTop />
       <Rotas />
       <Footer />
     </BrowserRouter>
