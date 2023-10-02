@@ -34,6 +34,10 @@ export const Method = styled.a`
         
         span{
             display: block;
+
+            &.email{
+                font-size: 1rem;
+            }
         }
     }
 `
