@@ -1,0 +1,92 @@
+{
+    "projects": [
+        {
+            "name": "Your Name",
+            "id": "1",
+            "type": "website",
+            "link": "https://yourname.vercel.app/",
+            "thumb": "yourname.png",
+            "tech": [
+                "HTML",
+                "SASS",
+                "JS"
+            ],
+            "description": "Uma página da web visualmente atrativa para promover o filme 'Your Name'. Feito com HTML, SCSS e JavaScript para tornar a página responsiva."
+        },
+        {
+            "name": "Nabaiji",
+            "id": "2",
+            "type": "website",
+            "link": "https://nabaiji.vercel.app/",
+            "thumb": "nabaiji.png",
+            "tech": [
+                "HTML",
+                "SASS",
+                "JS"
+            ],
+            "description": "Landing page para a marca Nabaiji. Construída utilizando HTML, SCSS e JavaScript para criar uma experiência interativa que destaca os produtos e redireciona ao site da Decathlon."
+        },
+        {
+            "name": "Patchoca S.C.",
+            "id": "3",
+            "type": "design",
+            "link": "---",
+            "thumb": "patchoca.png",
+            "tech": [
+                "Krita",
+                "Canva"
+            ],
+            "description": "Criação de uma identidade visual completa para o Patchoca S.C., um pequeno time de Reginópolis, interior de São Paulo. Utilizando as ferramentas Krita e Canva, o objetivo foi desenvolver um logotipo marcante, designs de camisetas e uma paleta de cores representativa que refletissem o espírito do clube."
+        },
+        {
+            "name": "Efood",
+            "id": "4",
+            "type": "website",
+            "link": "https://efood-vitinho.vercel.app/",
+            "thumb": "efood.png",
+            "tech": [
+                "React",
+                "Styled-components"
+            ],
+            "description": "Projeto de conclusão do curso de front-end, um mockup de applicativo de restaurantes, criado em React, com integração de APIs e responsividade."
+        },
+        {
+            "name": "Porto Aventura",
+            "id": "5",
+            "type": "website",
+            "link": "https://nabaiji.vercel.app/",
+            "thumb": "porto.png",
+            "tech": [
+                "Bootstrap",
+                "JS (JQuery)"
+            ],
+            "description": "Neste projeto, foi desenvolvido um site para o fictício parque de diversões 'Porto Aventura'. A plataforma foi criada utilizando Bootstrap para garantir a responsividade e JQuery para aprimorar a funcionalidade dos formulários. O objetivo principal foi oferecer informações sobre atrações, alimentação, valores para admissão e meios de contato."
+        },
+        {
+            "name": "Calculadora IMC",
+            "id": "6",
+            "type": "website",
+            "link": "https://calculadora-imc-tributo2020.vercel.app/",
+            "thumb": "imc.png",
+            "tech": [
+                "React",
+                "CSS Modules"
+            ],
+            "description": "Uma simples calculadora de IMC, feita para praticar funcionalidades React assim como o design, baseado na estética do Nintendo Wii."
+        },
+        {
+            "name": "Site Portfólio",
+            "id": "7",
+            "type": "website",
+            "link": "/",
+            "thumb": "portfolio.png",
+            "tech": [
+                "React",
+                "Styled-components"
+            ],
+            "description": "O site em que você está agora. Feito em React, com Styled-components e React-router-DOM. Refletindo minha personalidade e energia.",
+            "preTxt": " (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+            "postTxt": "✧ ･: *ヽ(◕ヮ◕ヽ)"
+        }
+    ]
+}
