@@ -87,6 +87,18 @@
             "description": "O site em que você está agora. Feito em React, com Styled-components e React-router-DOM. Refletindo minha personalidade e energia.",
             "preTxt": " (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
             "postTxt": "✧ ･: *ヽ(◕ヮ◕ヽ)"
-        }
+        },
+        {
+          "name": "Layouts",
+          "id": "8",
+          "type": "website",
+          "link": "https://layout-training.vercel.app/",
+          "thumb": "layouts.png",
+          "tech": [
+              "React",
+              "Styled-components"
+          ],
+          "description": "Criado para praticar estilização e responsividade. Um lugar para aplicar forma sem me preocupar com conteúdo."
+      }
     ]
 }
